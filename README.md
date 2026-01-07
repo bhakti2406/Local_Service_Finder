@@ -25,15 +25,11 @@ Node.js (v14 or higher)
 npm
 
 
-📦 Installation
-git clone https://github.com/your-username/local-service-finder.git
-cd local-service-finder
-npm install
 
 
 ▶️ Available Scripts
 npm start
-Runs the app in development mode at http://localhost:3000
+Runs the app in development mode 
 npm test
 Runs tests in watch mode.
 npm run build
