@@ -19,13 +19,17 @@ The project is built with React and bootstrapped using Create React App.
 🧰 Tech Stack
 
 Frontend: React, JavaScript (ES6), HTML, CSS
+
 Real-time Communication: WebSockets (Socket-based chat)
+
 Tooling: Create React App, npm
 
 
 🚀 Getting Started
 ✅ Prerequisites
+
 Node.js (v14 or higher)
+
 npm
 
 
@@ -33,11 +37,17 @@ npm
 
 ▶️ Available Scripts
 npm start
+
 Runs the app in development mode 
+
 npm test
+
 Runs tests in watch mode.
+
 npm run build
+
 Creates an optimized production build.
+
 npm run eject
 
 
@@ -46,17 +56,27 @@ npm run eject
 📁 Project Structure
 local-service-finder/
 ├── public/
+
 ├── src/
+
 │   ├── components/
+
 │   ├── pages/
+
 │   ├── chatbot/
+
 │   ├── App.js
+
 │   └── index.js
+
 ├── package.json
+
 └── README.md
 
 🔐 Environment Variables
+
 Create a .env file if required:
+
 REACT_APP_API_URL=your_api_url_here
 
 
@@ -64,8 +84,11 @@ REACT_APP_API_URL=your_api_url_here
 
 🚧 Future Enhancements
 Google Maps integration
+
 User authentication
+
 Ratings and reviews
+
 AI-powered service recommendations
 
 
